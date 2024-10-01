@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Waseem Mosam</h1>
 <h3 align="center">A passionate software developer from Botswana</h3>
 
+<h3 align="left">About me</h3>
+<hr>
 - 🌱 I’m currently learning **devops.**
+<hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/waseem-mosam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waseem-mosam" height="30" width="40" /></a>
 </p>
