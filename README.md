@@ -20,7 +20,7 @@
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waseem-mosam&show_icons=true&theme=react" alt="waseem-mosam" /></p><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waseem-mosam&show_icons=true&theme=react" alt="waseem-mosam" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waseem-mosam&show_icons=true&theme=react" alt="waseem-mosam" /></p><br><br>
 
 <h3 align="left">My Github Trophies</h3>
 <hr>
