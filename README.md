@@ -18,11 +18,12 @@
 
 <h3 align="left">My Github stats</h3>
 <hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waseem-mosam&show_icons=true&theme=react" alt="waseem-mosam" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waseem-mosam&show_icons=true&theme=react" alt="waseem-mosam" /></p><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waseem-mosam&show_icons=true&theme=react" alt="waseem-mosam" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waseem-mosam&show_icons=true&theme=react" alt="waseem-mosam" /></p><br/>
 
-<br><h3 align="left">My Github Trophies</h3>
+<hr>
+<h3 align="left">My Github Trophies</h3>
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waseem-mosam" alt="waseem-mosam" /></a> </p>
 
