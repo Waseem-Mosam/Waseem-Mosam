@@ -3,7 +3,7 @@
 
 <h3 align="left">About me</h3>
 <hr>
-- 🌱 I’m currently learning **devops.**
+- 🌱 I’m currently learning <em>devops</em>.
 
 
 <h3 align="left">Connect with me</h3>
