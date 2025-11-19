@@ -3,7 +3,7 @@
 
 <h3 align="left">About me</h3>
 <hr>
-- 🌱 I’m currently learning <strong>FastAPI</strong>.
+- 🌱 I’m currently learning <strong>FastAPI</strong>.<br>
 - 🌱 And I am also doing <strong>Google Cloud training</strong>.
 
 
